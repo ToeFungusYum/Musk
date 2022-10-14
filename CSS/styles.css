@@ -1,0 +1,77 @@
+body{
+  background-color:#002E94;
+  font-family:Arial;
+  font-size:1.25rem;
+  color:#E1CeB5;
+}
+
+a:link{
+color:#E1CEB5
+}
+
+a:visited{
+color:#E1CEB5
+}
+
+a:hover{
+color:#FFE7CC
+}
+
+ol{
+list-style-type:upper-roman;
+}
+
+.profilePic{
+border-radius:50%;
+Height:400px;
+Width:400px;
+}
+
+.profileAlignment{
+Padding-left:20%;
+Padding-right:20%;
+}
+
+.centerTable{
+Margin-left:auto;
+Margin-right:auto;
+}
+
+.linkCells{
+Padding:10px
+}
+
+.infoAlignment{
+margin-left:auto;
+margin-right:auto;
+}
+
+.headOneAlign{
+text-align:center;
+}
+
+.olLevelTwo{
+list-style-type:lower-roman;
+}
+
+.ulListType{
+list-style-type:none;
+}
+
+.songTitle{
+Font-weight:bold;
+Font-style:italic;
+text-decoration:underline;
+Display:inline;
+}
+
+.liUnderline{
+  Text-decoration:underline;
+  Display:inline;
+}
+
+.businessList{
+Height:100px;
+Width:100px;
+Border-radius:50%;
+}
